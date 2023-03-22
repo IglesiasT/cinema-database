@@ -7,7 +7,7 @@ Database design for a cinema
   * Movies
   * Clients
   * Rooms
-  * Movies
+  * Shows
   * Seats
   * Reserved seats
   * Reservations
